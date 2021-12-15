@@ -7,6 +7,7 @@
  - Java 11
  - Spring Boot 2.5.6
  - Spring Data JPA 
+ - QueryDSL
  - Spring Security
  - Thymeleaf
 
